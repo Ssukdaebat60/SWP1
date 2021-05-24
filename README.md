@@ -1,2 +1,2 @@
-20213012	 Ssukdaebat60
-Kookmin Univ. SW
+20213012 Ssukdaebat60
+Kookmin Univ. Computer
